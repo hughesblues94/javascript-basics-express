@@ -65,3 +65,4 @@ const createPerson = (name, age) => {
     averageAge,
     createTalkingPerson
   }
+  }

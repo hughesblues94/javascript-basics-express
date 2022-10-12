@@ -78,5 +78,5 @@ const getNthElement = (index, array) => {
     sumNumbers,
     sortByLastLetter
   };
-  Footer
+
   

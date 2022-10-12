@@ -55,5 +55,3 @@ function add (a, b) {
     quotient,
     remainder
   }
-  Footer
-  
